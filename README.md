@@ -26,7 +26,7 @@ These files are deployed using *GitHub Pages*, which allows static websites to b
 
 ## GitHub Pages Link
 
-🌐 [https://aarani07.github.io/lab4_webdevelopment/](https://aarani07.github.io/lab4_webdevelopment/)
+🌐 [https://aarani07.github.io/lab4_webdevelopment/](https://github.com/Aarani07/lab4_webdevelopment.git)
 
 
 
