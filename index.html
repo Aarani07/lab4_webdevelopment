@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Change Paragraph Text</title>
+</head>
+<body>
+<div id="myElement">
+<p>Welcome to my website! </p>
+</div>
+<!-- JavaScript to change the <p> content -->
+<script>
+// Get the <div> by its ID
+var div = document.getElementById("myElement");
+// Get the <p> inside the div and change its content
+var paragraph = div.getElementsByTagName("p")[0];
+  	paragraph.innerHTML = "Hello there!";
+</script>
+</body>
+</html>
